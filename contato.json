@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nombre": "Harold Sthefan",
+      "email": "harold@gmail.com",
+      "telefono": "123456789"
+    },
+    {
+      "id": 2,
+      "nombre": "Nevi Luz",
+      "email": "nevi@gmail.com",
+      "telefono": "123456789"
+    },
+    {
+      "id": 3,
+      "nombre": "Ade",
+      "email": "ade@gmail.com",
+      "telefono": "123456789"
+    }
+  ]
+}
